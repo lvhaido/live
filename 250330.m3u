@@ -37,6 +37,8 @@ http://192.168.1.1:8012/rtp/239.3.1.65:8132
 http://192.168.1.1:8012/rtp/239.3.1.153:8136
 #EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[超清HDR]
 http://192.168.1.1:8012/rtp/239.3.1.183:8001
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="[高清]央视",CCTV-16奥林匹克频道[高清]
+http://192.168.1.1:8012/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="[高清]央视",CCTV-17农业农村[高清]
 http://192.168.1.1:8012/rtp/239.3.1.151:8144
 
