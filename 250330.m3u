@@ -143,7 +143,7 @@ http://192.168.1.1:8012/rtp/239.3.1.141:1234
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="[高清]卫视",河北卫视[高清]
 http://192.168.1.1:8012/rtp/239.3.1.148:8072
 #EXTINF:-1 tvg-name="河南卫视",河南卫视[高清]
-http://192.168.1.1:8012/rtp//239.3.1.50:8184
+http://192.168.1.1:8012/rtp/239.3.1.50:8184
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="[高清]卫视",重庆卫视[高清]
 http://192.168.1.1:8012/rtp/239.3.1.122:8160
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="[高清]卫视",江西卫视[高清]
