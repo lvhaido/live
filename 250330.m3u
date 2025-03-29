@@ -79,9 +79,9 @@ http://192.168.1.1:8012/rtp/239.3.1.189:8000
 
 
 # #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[非官方]
-# https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2217df8a-46d8-4fa8-b040-5abdd96d91ce.flv
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2217df8a-46d8-4fa8-b040-5abdd96d91ce.flv
 # #EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[非官方]
-# https://pull-l3-cny.douyincdn.com/live/YesLiveTV-63134406-69d7-436b-986a-9bd696d4e2cb.flv
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-63134406-69d7-436b-986a-9bd696d4e2cb.flv
 
 
 
