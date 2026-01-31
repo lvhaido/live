@@ -67,7 +67,7 @@ http://192.168.1.1:8012/rtp/239.3.1.116:8000
 #EXTINF:-1  tvg-id="1179"  tvg-name="BTV生活"  tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png"  group-title="[高清]北京",BRTV生活[高清]
 http://192.168.1.1:8012/rtp/239.3.1.117:8000
 # #EXTINF:-1 tvg-name="BTV青年",BRTV青年[高清]
-# http://192.168.1.1:8012/rtp/239.3.1.118:8000
+http://192.168.1.1:8012/rtp/239.3.1.118:8000
 #EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="[高清]北京",BRTV国际频道[高清]
 http://192.168.1.1:8012/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-id="1173" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",BRTV冬奥纪实[超清HDR]
