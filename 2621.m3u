@@ -249,7 +249,7 @@ http://192.168.1.1:8012/rtp/239.3.1.51:9252
 #EXTINF:-1 tvg-id="1434" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="少儿",嘉佳卡通
 http://192.168.1.1:8012/rtp/239.3.1.147:9268
 
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="少儿"华数动画
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="少儿",华数动画
 http://192.168.1.1:8012/rtp/239.3.1.80:4120
 
 #EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="影视",城市剧场
